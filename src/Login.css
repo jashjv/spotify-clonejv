@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400&display=swap'); 
+
+.login {
+    display: grid;
+    place-items: center;
+    background-color: black;
+    height: 100vh;
+}
+
+.login > img {
+    width:50%;
+}
+
+.login > a {
+    padding: 20px;
+    background-color: #1db954;
+    border-radius: 99px;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 50px;
+
+}
